@@ -1,6 +1,7 @@
 body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     background-color: black;
+    text-align: center;
 }
 
 h1 {
@@ -30,14 +31,6 @@ a {
 
 #footer-logo {
     text-align: right;
-}
-
-.video {
-    text-align: center;
-}
-
-.camp {
-    text-align: center;
 }
 
 .phone-logo {
